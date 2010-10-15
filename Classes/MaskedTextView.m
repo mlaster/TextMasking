@@ -46,13 +46,13 @@
         NSLog(@"TRACE: Creating alphaMask");
         UIGraphicsPushContext(drawingContext);
         CGContextRef context = UIGraphicsGetCurrentContext();
-        CGContextClipToRect(context, [self frame]);
+//        CGContextClipToRect(context, [self frame]);
         CGRect rect = [self bounds];
 
         NSLog(@"rect: %@", NSStringFromCGRect(rect));
         NSLog(@"TRACE: Creating alphaMask in context %@", context);
         // Draw a dark gray background
-        [[UIColor darkGrayColor] setFill];
+        [[UIColor clearColor] setFill];
         CGContextFillRect(context, rect);
 
         // Draw the text upside-down
@@ -115,21 +115,21 @@
 //	CGImageRef alphaMask = CGBitmapContextCreateImage(context);
 
 	// Draw a white background (overwriting the previous work)
-	[[UIColor redColor] setFill];
-	CGContextFillRect(context, rect);
+//	[[UIColor redColor] setFill];
+//	CGContextFillRect(context, rect);
 
     // Draw the image, clipped by the mask
 	CGContextSaveGState(context);
-//	CGContextClipToMask(context, rect, [self alphaMask]);
+	CGContextClipToMask(context, rect, [self alphaMask]);
     NSLog(@"alphaMask: %@", [self alphaMask]);
 
 //    [[UIColor greenColor] setFill];
-	CGContextFillRect(context, rect);
-    [[UIImage imageWithCGImage:[self alphaMask]] drawInRect:rect];
+//	CGContextFillRect(context, rect);
+//    [[UIImage imageWithCGImage:[self alphaMask]] drawInRect:rect];
 
-//	[[UIImage imageNamed:@"shuttle.jpg"] drawInRect:rect];
+	[[UIImage imageNamed:@"shuttle.jpg"] drawInRect:rect];
 	CGContextRestoreGState(context);
-//	CGImageRelease(alphaMask);
+	CGImageRelease(alphaMask);
 }
 
 @end

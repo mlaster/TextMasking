@@ -5,7 +5,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 58";
 		rLen = 53;
-		rLoc = 4362;
+		rLoc = 4365;
 		rType = 0;
 		vrLen = 1210;
 		vrLoc = 494;
@@ -15,7 +15,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 58";
 		rLen = 53;
-		rLoc = 4362;
+		rLoc = 4365;
 		rType = 0;
 		vrLen = 1216;
 		vrLoc = 494;
@@ -25,7 +25,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 58";
 		rLen = 53;
-		rLoc = 4362;
+		rLoc = 4365;
 		rType = 0;
 		vrLen = 1216;
 		vrLoc = 494;
@@ -35,7 +35,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 33";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2110;
 		rType = 0;
 		vrLen = 1217;
 		vrLoc = 494;
@@ -45,7 +45,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 36";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1212;
 		vrLoc = 494;
@@ -55,7 +55,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 36";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1212;
 		vrLoc = 494;
@@ -65,7 +65,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 36";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1212;
 		vrLoc = 494;
@@ -75,7 +75,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 39";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1212;
 		vrLoc = 494;
@@ -102,7 +102,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 37";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1214;
 		vrLoc = 493;
@@ -259,7 +259,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 44";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 493;
@@ -298,8 +298,8 @@
 		isa = PBXTextBookmark;
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
-		rLen = 31;
-		rLoc = 3972;
+		rLen = 35;
+		rLoc = 3971;
 		rType = 0;
 		vrLen = 1211;
 		vrLoc = 493;
@@ -329,7 +329,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 3991;
+		rLoc = 3971;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 493;
@@ -349,7 +349,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 33";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2110;
 		rType = 0;
 		vrLen = 1445;
 		vrLoc = 304;
@@ -438,7 +438,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 41";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2110;
 		rType = 0;
 		vrLen = 1291;
 		vrLoc = 304;
@@ -478,7 +478,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 55";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1515;
 		vrLoc = 554;
@@ -488,7 +488,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 59";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1351;
 		vrLoc = 494;
@@ -538,7 +538,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 57";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2110;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 378;
@@ -605,7 +605,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 56";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 1488;
@@ -625,7 +625,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 56";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 1488;
@@ -655,7 +655,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 41";
 		rLen = 0;
-		rLoc = 2111;
+		rLoc = 2110;
 		rType = 0;
 		vrLen = 1344;
 		vrLoc = 522;
@@ -665,7 +665,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 61";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1499;
 		vrLoc = 661;
@@ -675,7 +675,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 56";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 485;
 		vrLoc = 1488;
@@ -695,7 +695,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 62";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1470;
 		vrLoc = 753;
@@ -705,7 +705,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 56";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 485;
 		vrLoc = 1488;
@@ -725,7 +725,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 62";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1457;
 		vrLoc = 821;
@@ -735,7 +735,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 56";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 423;
 		vrLoc = 1488;
@@ -755,7 +755,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 60";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1460;
 		vrLoc = 821;
@@ -765,7 +765,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 56";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 488;
 		vrLoc = 1488;
@@ -785,7 +785,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 60";
 		rLen = 0;
-		rLoc = 3229;
+		rLoc = 3228;
 		rType = 0;
 		vrLen = 1504;
 		vrLoc = 839;
@@ -804,7 +804,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 362;
 		vrLoc = 1778;
@@ -824,7 +824,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 362;
 		vrLoc = 1778;
@@ -844,7 +844,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 1997;
@@ -920,7 +920,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 56";
 		rLen = 9;
-		rLoc = 1739;
+		rLoc = 1738;
 		rType = 0;
 		vrLen = 1333;
 		vrLoc = 821;
@@ -930,7 +930,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 69";
 		rLen = 0;
-		rLoc = 2127;
+		rLoc = 2126;
 		rType = 0;
 		vrLen = 1656;
 		vrLoc = 1049;
@@ -940,7 +940,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 563;
 		vrLoc = 1997;
@@ -960,7 +960,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 65";
 		rLen = 0;
-		rLoc = 2085;
+		rLoc = 2084;
 		rType = 0;
 		vrLen = 1657;
 		vrLoc = 1122;
@@ -970,7 +970,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 563;
 		vrLoc = 1997;
@@ -990,7 +990,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 555;
 		vrLoc = 1997;
@@ -1010,7 +1010,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 110";
 		rLen = 0;
-		rLoc = 4115;
+		rLoc = 4116;
 		rType = 0;
 		vrLen = 1454;
 		vrLoc = 2176;
@@ -1020,7 +1020,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 563;
 		vrLoc = 1997;
@@ -1040,7 +1040,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 563;
 		vrLoc = 1997;
@@ -1059,8 +1059,8 @@
 		isa = PBXTextBookmark;
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 114";
-		rLen = 30;
-		rLoc = 4451;
+		rLen = 28;
+		rLoc = 4454;
 		rType = 0;
 		vrLen = 1456;
 		vrLoc = 2176;
@@ -1070,7 +1070,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 565;
 		vrLoc = 1997;
@@ -1090,7 +1090,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 567;
 		vrLoc = 1997;
@@ -1110,7 +1110,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 567;
 		vrLoc = 1997;
@@ -1130,7 +1130,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 567;
 		vrLoc = 1997;
@@ -1150,7 +1150,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 105";
 		rLen = 0;
-		rLoc = 3991;
+		rLoc = 3971;
 		rType = 0;
 		vrLen = 1460;
 		vrLoc = 2176;
@@ -1160,7 +1160,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 558;
 		vrLoc = 1997;
@@ -1180,7 +1180,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 558;
 		vrLoc = 1997;
@@ -1200,7 +1200,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 112";
 		rLen = 0;
-		rLoc = 4216;
+		rLoc = 4217;
 		rType = 0;
 		vrLen = 1507;
 		vrLoc = 2177;
@@ -1210,7 +1210,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 560;
 		vrLoc = 1997;
@@ -1230,7 +1230,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 560;
 		vrLoc = 1997;
@@ -1250,7 +1250,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 82";
 		rLen = 45;
-		rLoc = 3044;
+		rLoc = 3043;
 		rType = 0;
 		vrLen = 1457;
 		vrLoc = 2229;
@@ -1260,7 +1260,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 560;
 		vrLoc = 1997;
@@ -1280,7 +1280,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 560;
 		vrLoc = 1997;
@@ -1300,7 +1300,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 106";
 		rLen = 0;
-		rLoc = 3991;
+		rLoc = 3971;
 		rType = 0;
 		vrLen = 1457;
 		vrLoc = 2229;
@@ -1310,7 +1310,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 560;
 		vrLoc = 1997;
@@ -1330,7 +1330,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 67";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 560;
 		vrLoc = 1997;
@@ -1350,7 +1350,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 106";
 		rLen = 0;
-		rLoc = 3991;
+		rLoc = 3971;
 		rType = 0;
 		vrLen = 1455;
 		vrLoc = 2229;
@@ -1360,7 +1360,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 573;
 		vrLoc = 2047;
@@ -1380,7 +1380,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 573;
 		vrLoc = 2047;
@@ -1410,7 +1410,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1430,7 +1430,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1450,7 +1450,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 64";
 		rLen = 0;
-		rLoc = 2078;
+		rLoc = 2077;
 		rType = 0;
 		vrLen = 1676;
 		vrLoc = 976;
@@ -1460,7 +1460,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1480,7 +1480,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1500,7 +1500,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 89";
 		rLen = 0;
-		rLoc = 3043;
+		rLoc = 3042;
 		rType = 0;
 		vrLen = 1770;
 		vrLoc = 1455;
@@ -1510,7 +1510,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1530,7 +1530,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1550,7 +1550,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 119";
 		rLen = 102;
-		rLoc = 4115;
+		rLoc = 4116;
 		rType = 0;
 		vrLen = 1505;
 		vrLoc = 2608;
@@ -1560,7 +1560,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1580,7 +1580,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1600,7 +1600,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 122";
 		rLen = 0;
-		rLoc = 4244;
+		rLoc = 4219;
 		rType = 0;
 		vrLen = 1524;
 		vrLoc = 2651;
@@ -1610,7 +1610,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1630,7 +1630,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 68";
 		rLen = 2;
-		rLoc = 2108;
+		rLoc = 2107;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 2082;
@@ -1650,7 +1650,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 123";
 		rLen = 0;
-		rLoc = 4256;
+		rLoc = 4259;
 		rType = 0;
 		vrLen = 1509;
 		vrLoc = 2674;
@@ -1669,7 +1669,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 124";
 		rLen = 0;
-		rLoc = 4295;
+		rLoc = 4300;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 3803;
@@ -1689,7 +1689,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 124";
 		rLen = 0;
-		rLoc = 4295;
+		rLoc = 4300;
 		rType = 0;
 		vrLen = 446;
 		vrLoc = 3803;
@@ -1709,7 +1709,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 124";
 		rLen = 0;
-		rLoc = 4295;
+		rLoc = 4300;
 		rType = 0;
 		vrLen = 446;
 		vrLoc = 3803;
@@ -1729,7 +1729,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 124";
 		rLen = 0;
-		rLoc = 4339;
+		rLoc = 4344;
 		rType = 0;
 		vrLen = 1576;
 		vrLoc = 2674;
@@ -1739,7 +1739,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 124";
 		rLen = 0;
-		rLoc = 4295;
+		rLoc = 4300;
 		rType = 0;
 		vrLen = 450;
 		vrLoc = 3803;
@@ -1759,7 +1759,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 124";
 		rLen = 0;
-		rLoc = 4295;
+		rLoc = 4300;
 		rType = 0;
 		vrLen = 450;
 		vrLoc = 3803;
@@ -1779,7 +1779,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 120";
 		rLen = 47;
-		rLoc = 4170;
+		rLoc = 4171;
 		rType = 0;
 		vrLen = 1579;
 		vrLoc = 2675;
@@ -1789,7 +1789,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 125";
 		rLen = 0;
-		rLoc = 4295;
+		rLoc = 4300;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 3850;
@@ -1809,7 +1809,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 125";
 		rLen = 0;
-		rLoc = 4295;
+		rLoc = 4300;
 		rType = 0;
 		vrLen = 480;
 		vrLoc = 3850;
@@ -1829,7 +1829,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 1496;
+		rLoc = 1498;
 		rType = 0;
 		vrLen = 1468;
 		vrLoc = 875;
@@ -1848,7 +1848,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 617;
 		vrLoc = 1176;
@@ -1868,7 +1868,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 570;
 		vrLoc = 1176;
@@ -1888,7 +1888,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 1409;
 		vrLoc = 874;
@@ -1898,7 +1898,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 619;
 		vrLoc = 1176;
@@ -1918,7 +1918,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 619;
 		vrLoc = 1176;
@@ -1938,7 +1938,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 51";
 		rLen = 0;
-		rLoc = 1395;
+		rLoc = 1397;
 		rType = 0;
 		vrLen = 1516;
 		vrLoc = 892;
@@ -1948,7 +1948,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -1968,7 +1968,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -1988,7 +1988,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 63";
 		rLen = 0;
-		rLoc = 1874;
+		rLoc = 1873;
 		rType = 0;
 		vrLen = 1297;
 		vrLoc = 814;
@@ -1998,7 +1998,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -2018,7 +2018,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -2048,7 +2048,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -2068,7 +2068,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -2088,7 +2088,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 87";
 		rLen = 0;
-		rLoc = 2887;
+		rLoc = 2886;
 		rType = 0;
 		vrLen = 1868;
 		vrLoc = 1176;
@@ -2098,7 +2098,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -2125,7 +2125,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -2145,7 +2145,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 52";
 		rLen = 0;
-		rLoc = 1427;
+		rLoc = 1429;
 		rType = 0;
 		vrLen = 618;
 		vrLoc = 1429;
@@ -2165,10 +2165,550 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 87";
 		rLen = 0;
-		rLoc = 2887;
+		rLoc = 2886;
 		rType = 0;
 		vrLen = 1834;
 		vrLoc = 1077;
+	};
+	194F99461267FA34003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 1429;
+	};
+	194F99471267FA34003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 940;
+	};
+	194F99481267FA3C003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 75";
+		rLen = 21;
+		rLoc = 2258;
+		rType = 0;
+		vrLen = 1839;
+		vrLoc = 1071;
+	};
+	194F994B1267FE97003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F994C1267FE97003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 940;
+	};
+	194F994F1267FE98003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F99501267FE98003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 940;
+	};
+	194F99511267FE98003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 49";
+		rLen = 0;
+		rLoc = 1285;
+		rType = 0;
+		vrLen = 1842;
+		vrLoc = 1103;
+	};
+	194F99521267FEA1003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F99531267FEA1003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 960;
+	};
+	194F99541267FEA6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 49";
+		rLen = 0;
+		rLoc = 1285;
+		rType = 0;
+		vrLen = 1772;
+		vrLoc = 2588;
+	};
+	194F99571267FECD003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F99581267FECD003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 960;
+	};
+	194F995B1267FECE003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F995C1267FECE003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 960;
+	};
+	194F995D1267FECE003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 130";
+		rLen = 0;
+		rLoc = 4364;
+		rType = 0;
+		vrLen = 1576;
+		vrLoc = 2912;
+	};
+	194F99601267FEEC003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F99611267FEEC003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 987;
+	};
+	194F99641267FEED003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F99651267FEED003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 987;
+	};
+	194F99661267FEED003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 126";
+		rLen = 0;
+		rLoc = 4219;
+		rType = 0;
+		vrLen = 1571;
+		vrLoc = 2913;
+	};
+	194F99691267FEF6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F996A1267FEF6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 1007;
+	};
+	194F996D1267FEF6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F996E1267FEF6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 1007;
+	};
+	194F996F1267FEF6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 128";
+		rLen = 69;
+		rLoc = 4294;
+		rType = 0;
+		vrLen = 1573;
+		vrLoc = 2913;
+	};
+	194F99721267FF03003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F99731267FF03003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 1008;
+	};
+	194F99761267FF03003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 1376;
+	};
+	194F99771267FF03003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 1008;
+	};
+	194F99781267FF03003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 130";
+		rLen = 0;
+		rLoc = 4365;
+		rType = 0;
+		vrLen = 1575;
+		vrLoc = 2913;
+	};
+	194F997B1268002A003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F997C1268002A003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 1047;
+	};
+	194F997F1268002B003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F99801268002B003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 1047;
+	};
+	194F99811268002B003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 55";
+		rLen = 0;
+		rLoc = 1566;
+		rType = 0;
+		vrLen = 1833;
+		vrLoc = 1076;
+	};
+	194F998412680038003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F998512680038003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 1070;
+	};
+	194F998812680039003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F998912680039003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 1070;
+	};
+	194F998A12680039003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 55";
+		rLen = 0;
+		rLoc = 1566;
+		rType = 0;
+		vrLen = 1839;
+		vrLoc = 1103;
+	};
+	194F998D126800A4003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 1376;
+	};
+	194F998E126800A4003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 1115;
+	};
+	194F998F126800A8003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 126";
+		rLen = 75;
+		rLoc = 4219;
+		rType = 0;
+		vrLen = 1685;
+		vrLoc = 2801;
+	};
+	194F9992126800B7003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F9993126800B7003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 1114;
+	};
+	194F9996126800B8003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F9997126800B8003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 1114;
+	};
+	194F9998126800B9003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 126";
+		rLen = 75;
+		rLoc = 4219;
+		rType = 0;
+		vrLen = 1579;
+		vrLoc = 2907;
+	};
+	194F999B126800C5003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F999C126800C5003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 1114;
+	};
+	194F999F126800C6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 52";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 1376;
+	};
+	194F99A0126800C6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TextMaskingViewController.m */;
+		name = "TextMaskingViewController.m: 43";
+		rLen = 173;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 1114;
+	};
+	194F99A1126800C6003F75B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
+		name = "MaskedTextView.m: 118";
+		rLen = 70;
+		rLoc = 3971;
+		rType = 0;
+		vrLen = 1581;
+		vrLoc = 2910;
 	};
 	19B95FB312652FE0001B93BA /* TextMasking */ = {
 		isa = PBXExecutable;
@@ -2281,7 +2821,7 @@
 		fRef = C9A4706F105666BC00E84FF2 /* MaskedTextView.m */;
 		name = "MaskedTextView.m: 58";
 		rLen = 53;
-		rLoc = 4362;
+		rLoc = 4365;
 		rType = 0;
 		vrLen = 1216;
 		vrLoc = 494;
@@ -2317,7 +2857,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {862, 858}}";
 			sepNavSelRange = "{1115, 173}";
-			sepNavVisRange = "{937, 394}";
+			sepNavVisRange = "{1114, 336}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -2600,6 +3140,60 @@
 			194F99421267F920003F75B0 /* PBXTextBookmark */ = 194F99421267F920003F75B0 /* PBXTextBookmark */;
 			194F99431267F920003F75B0 /* PBXTextBookmark */ = 194F99431267F920003F75B0 /* PBXTextBookmark */;
 			194F99441267F921003F75B0 /* PBXTextBookmark */ = 194F99441267F921003F75B0 /* PBXTextBookmark */;
+			194F99461267FA34003F75B0 /* PBXTextBookmark */ = 194F99461267FA34003F75B0 /* PBXTextBookmark */;
+			194F99471267FA34003F75B0 /* PBXTextBookmark */ = 194F99471267FA34003F75B0 /* PBXTextBookmark */;
+			194F99481267FA3C003F75B0 /* PBXTextBookmark */ = 194F99481267FA3C003F75B0 /* PBXTextBookmark */;
+			194F994B1267FE97003F75B0 /* PBXTextBookmark */ = 194F994B1267FE97003F75B0 /* PBXTextBookmark */;
+			194F994C1267FE97003F75B0 /* PBXTextBookmark */ = 194F994C1267FE97003F75B0 /* PBXTextBookmark */;
+			194F994F1267FE98003F75B0 /* PBXTextBookmark */ = 194F994F1267FE98003F75B0 /* PBXTextBookmark */;
+			194F99501267FE98003F75B0 /* PBXTextBookmark */ = 194F99501267FE98003F75B0 /* PBXTextBookmark */;
+			194F99511267FE98003F75B0 /* PBXTextBookmark */ = 194F99511267FE98003F75B0 /* PBXTextBookmark */;
+			194F99521267FEA1003F75B0 /* PBXTextBookmark */ = 194F99521267FEA1003F75B0 /* PBXTextBookmark */;
+			194F99531267FEA1003F75B0 /* PBXTextBookmark */ = 194F99531267FEA1003F75B0 /* PBXTextBookmark */;
+			194F99541267FEA6003F75B0 /* PBXTextBookmark */ = 194F99541267FEA6003F75B0 /* PBXTextBookmark */;
+			194F99571267FECD003F75B0 /* PBXTextBookmark */ = 194F99571267FECD003F75B0 /* PBXTextBookmark */;
+			194F99581267FECD003F75B0 /* PBXTextBookmark */ = 194F99581267FECD003F75B0 /* PBXTextBookmark */;
+			194F995B1267FECE003F75B0 /* PBXTextBookmark */ = 194F995B1267FECE003F75B0 /* PBXTextBookmark */;
+			194F995C1267FECE003F75B0 /* PBXTextBookmark */ = 194F995C1267FECE003F75B0 /* PBXTextBookmark */;
+			194F995D1267FECE003F75B0 /* PBXTextBookmark */ = 194F995D1267FECE003F75B0 /* PBXTextBookmark */;
+			194F99601267FEEC003F75B0 /* PBXTextBookmark */ = 194F99601267FEEC003F75B0 /* PBXTextBookmark */;
+			194F99611267FEEC003F75B0 /* PBXTextBookmark */ = 194F99611267FEEC003F75B0 /* PBXTextBookmark */;
+			194F99641267FEED003F75B0 /* PBXTextBookmark */ = 194F99641267FEED003F75B0 /* PBXTextBookmark */;
+			194F99651267FEED003F75B0 /* PBXTextBookmark */ = 194F99651267FEED003F75B0 /* PBXTextBookmark */;
+			194F99661267FEED003F75B0 /* PBXTextBookmark */ = 194F99661267FEED003F75B0 /* PBXTextBookmark */;
+			194F99691267FEF6003F75B0 /* PBXTextBookmark */ = 194F99691267FEF6003F75B0 /* PBXTextBookmark */;
+			194F996A1267FEF6003F75B0 /* PBXTextBookmark */ = 194F996A1267FEF6003F75B0 /* PBXTextBookmark */;
+			194F996D1267FEF6003F75B0 /* PBXTextBookmark */ = 194F996D1267FEF6003F75B0 /* PBXTextBookmark */;
+			194F996E1267FEF6003F75B0 /* PBXTextBookmark */ = 194F996E1267FEF6003F75B0 /* PBXTextBookmark */;
+			194F996F1267FEF6003F75B0 /* PBXTextBookmark */ = 194F996F1267FEF6003F75B0 /* PBXTextBookmark */;
+			194F99721267FF03003F75B0 /* PBXTextBookmark */ = 194F99721267FF03003F75B0 /* PBXTextBookmark */;
+			194F99731267FF03003F75B0 /* PBXTextBookmark */ = 194F99731267FF03003F75B0 /* PBXTextBookmark */;
+			194F99761267FF03003F75B0 /* PBXTextBookmark */ = 194F99761267FF03003F75B0 /* PBXTextBookmark */;
+			194F99771267FF03003F75B0 /* PBXTextBookmark */ = 194F99771267FF03003F75B0 /* PBXTextBookmark */;
+			194F99781267FF03003F75B0 /* PBXTextBookmark */ = 194F99781267FF03003F75B0 /* PBXTextBookmark */;
+			194F997B1268002A003F75B0 /* PBXTextBookmark */ = 194F997B1268002A003F75B0 /* PBXTextBookmark */;
+			194F997C1268002A003F75B0 /* PBXTextBookmark */ = 194F997C1268002A003F75B0 /* PBXTextBookmark */;
+			194F997F1268002B003F75B0 /* PBXTextBookmark */ = 194F997F1268002B003F75B0 /* PBXTextBookmark */;
+			194F99801268002B003F75B0 /* PBXTextBookmark */ = 194F99801268002B003F75B0 /* PBXTextBookmark */;
+			194F99811268002B003F75B0 /* PBXTextBookmark */ = 194F99811268002B003F75B0 /* PBXTextBookmark */;
+			194F998412680038003F75B0 /* PBXTextBookmark */ = 194F998412680038003F75B0 /* PBXTextBookmark */;
+			194F998512680038003F75B0 /* PBXTextBookmark */ = 194F998512680038003F75B0 /* PBXTextBookmark */;
+			194F998812680039003F75B0 /* PBXTextBookmark */ = 194F998812680039003F75B0 /* PBXTextBookmark */;
+			194F998912680039003F75B0 /* PBXTextBookmark */ = 194F998912680039003F75B0 /* PBXTextBookmark */;
+			194F998A12680039003F75B0 /* PBXTextBookmark */ = 194F998A12680039003F75B0 /* PBXTextBookmark */;
+			194F998D126800A4003F75B0 /* PBXTextBookmark */ = 194F998D126800A4003F75B0 /* PBXTextBookmark */;
+			194F998E126800A4003F75B0 /* PBXTextBookmark */ = 194F998E126800A4003F75B0 /* PBXTextBookmark */;
+			194F998F126800A8003F75B0 /* PBXTextBookmark */ = 194F998F126800A8003F75B0 /* PBXTextBookmark */;
+			194F9992126800B7003F75B0 /* PBXTextBookmark */ = 194F9992126800B7003F75B0 /* PBXTextBookmark */;
+			194F9993126800B7003F75B0 /* PBXTextBookmark */ = 194F9993126800B7003F75B0 /* PBXTextBookmark */;
+			194F9996126800B8003F75B0 /* PBXTextBookmark */ = 194F9996126800B8003F75B0 /* PBXTextBookmark */;
+			194F9997126800B8003F75B0 /* PBXTextBookmark */ = 194F9997126800B8003F75B0 /* PBXTextBookmark */;
+			194F9998126800B9003F75B0 /* PBXTextBookmark */ = 194F9998126800B9003F75B0 /* PBXTextBookmark */;
+			194F999B126800C5003F75B0 /* PBXTextBookmark */ = 194F999B126800C5003F75B0 /* PBXTextBookmark */;
+			194F999C126800C5003F75B0 /* PBXTextBookmark */ = 194F999C126800C5003F75B0 /* PBXTextBookmark */;
+			194F999F126800C6003F75B0 /* PBXTextBookmark */ = 194F999F126800C6003F75B0 /* PBXTextBookmark */;
+			194F99A0126800C6003F75B0 /* PBXTextBookmark */ = 194F99A0126800C6003F75B0 /* PBXTextBookmark */;
+			194F99A1126800C6003F75B0 /* PBXTextBookmark */ = 194F99A1126800C6003F75B0 /* PBXTextBookmark */;
 			19B960F7126538FE001B93BA = 19B960F7126538FE001B93BA /* PBXTextBookmark */;
 			19B960F8126538FE001B93BA = 19B960F8126538FE001B93BA /* PBXTextBookmark */;
 			19B960F9126538FE001B93BA = 19B960F9126538FE001B93BA /* PBXTextBookmark */;
@@ -2621,9 +3215,9 @@
 	};
 	C9A4706F105666BC00E84FF2 /* MaskedTextView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {764, 1768}}";
-			sepNavSelRange = "{2887, 0}";
-			sepNavVisRange = "{1077, 1834}";
+			sepNavIntBoundsRect = "{{0, 0}, {764, 1859}}";
+			sepNavSelRange = "{3971, 70}";
+			sepNavVisRange = "{2910, 1581}";
 		};
 	};
 }
